@@ -1,0 +1,14 @@
+#terminal {
+    height: 100%;
+}
+
+html,
+body,
+#app {
+    height: 100%;
+}
+
+html {
+    background-color: black;
+    overflow: hidden;
+}
